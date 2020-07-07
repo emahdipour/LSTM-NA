@@ -6,3 +6,7 @@ In bioinformatics, the discovery of protein-protein interaction networks is of g
 This project implemented by Elham Mahdipour, Ph.D. candidate of Artificial Intelligence at Yazd University, Yazd, Iran. 
 
 The supervisor is Dr. Mohammad Ghasemzadeh, associate Prof. of Computer Engineering department at Yazd University. 
+
+Please feel free and contact to me: elham.mahdipour@stu.yazd.ac.ir/ elham.mahdipour@gmail.com
+
+All right reserved by the authors.
