@@ -4,4 +4,6 @@ Second, LSTM-NA can be trained once due to usage of deep learning, and using tra
 
 Third, the LSTM-NA runtime is in order of seconds or minutes and is faster than other network alignment methods.
 
+Fourth, the LSTM-NA model can operate independently of the BLAST score and predict network alignment correctly. 
+
 Last, LSTM-NA is an end-to-end model because it obtains the properties and predicts simultaneously. 
